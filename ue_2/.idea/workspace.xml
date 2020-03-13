@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92f59584-2b2a-4b83-9492-c7e4410c7d26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YchTG9Oey79gdQxVPlcJA846B7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HalloWorld" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ch.teko.prog.ue_1.Main" />
+      <module name="ue_2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92f59584-2b2a-4b83-9492-c7e4410c7d26" name="Default Changelist" comment="" />
+      <created>1583247795398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583247795398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4581" y="284" key="FileChooserDialogImpl" timestamp="1583247987274">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4581" y="284" key="FileChooserDialogImpl/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1583247987274" />
+    <state x="4281" y="103" key="SettingsEditor" timestamp="1583247887047">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4281" y="103" key="SettingsEditor/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1583247887047" />
+  </component>
+</project>

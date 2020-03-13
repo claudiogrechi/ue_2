@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ccbd4dd-0030-4923-b161-ad9d1a6cd52a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WsvZZFBOmbsiBPag6dGPTOPe78" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch.teko.prog.ue_1.Book" />
+      <module name="ue_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.teko.prog.ue_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch.teko.prog.ue_3.Main" />
+      <module name="ue_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.teko.prog.ue_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch.teko.prog.ue_4.Main" />
+      <module name="ue_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.teko.prog.ue_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ch.teko.prog.ue_1.Main" />
+      <module name="ue_1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch.teko.prog.ue_2.Rectangle" />
+      <module name="ue_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.teko.prog.ue_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Rectangle (1)" />
+        <item itemvalue="Application.Book" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ccbd4dd-0030-4923-b161-ad9d1a6cd52a" name="Default Changelist" comment="" />
+      <created>1579951172576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579951172576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4526" y="194" key="#Unnamed" timestamp="1581713103450">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4526" y="194" key="#Unnamed/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1581713103450" />
+    <state x="4606" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1582735376147">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4606" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1582735376147" />
+    <state x="4520" y="241" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1583444696382">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4520" y="241" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1583444696382" />
+    <state x="4582" y="284" key="FileChooserDialogImpl" timestamp="1581858656355">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4582" y="284" key="FileChooserDialogImpl/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1581858656355" />
+    <state width="1878" height="312" key="GridCell.Tab.0.bottom" timestamp="1583447585415">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1050/3840.0.1920.1050@0.0.1920.1050" timestamp="1583362423219" />
+    <state width="1878" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1583447585415" />
+    <state width="1878" height="312" key="GridCell.Tab.0.center" timestamp="1583447585415">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="312" key="GridCell.Tab.0.center/0.0.1920.1050/3840.0.1920.1050@0.0.1920.1050" timestamp="1583362423219" />
+    <state width="1878" height="312" key="GridCell.Tab.0.center/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1583447585415" />
+    <state width="1878" height="312" key="GridCell.Tab.0.left" timestamp="1583447585415">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="312" key="GridCell.Tab.0.left/0.0.1920.1050/3840.0.1920.1050@0.0.1920.1050" timestamp="1583362423219" />
+    <state width="1878" height="312" key="GridCell.Tab.0.left/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1583447585415" />
+    <state width="1878" height="312" key="GridCell.Tab.0.right" timestamp="1583447585415">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="312" key="GridCell.Tab.0.right/0.0.1920.1050/3840.0.1920.1050@0.0.1920.1050" timestamp="1583362423219" />
+    <state width="1878" height="312" key="GridCell.Tab.0.right/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1583447585415" />
+    <state x="4281" y="103" key="SettingsEditor" timestamp="1581875560365">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4281" y="103" key="SettingsEditor/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1581875560365" />
+    <state x="668" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1579951180330">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/3840.0.1920.1050@0.0.1920.1050" timestamp="1579951180330" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582561447197">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1582561447197" />
+    <state x="4225" y="152" key="new project wizard" timestamp="1583247795211">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4225" y="152" key="new project wizard/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1583247795211" />
+    <state x="4460" y="246" key="run.anything.popup" timestamp="1582578357798">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4460" y="246" key="run.anything.popup/0.0.1920.1050/3840.0.1920.1050@3840.0.1920.1050" timestamp="1582578357798" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ch/teko/prog/ue_1/Main.java</url>
+          <line>7</line>
+          <properties class="ch.teko.prog.ue_1.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

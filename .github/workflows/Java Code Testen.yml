@@ -24,4 +24,4 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: ${{ matrix.java }}
-      - run: java -cp java ue_2/HalloWorld/src/com/example/helloworld/
+      - run: java -cp java ue_2/HalloWorld/src/com/example/helloworld/HelloWorld.java
